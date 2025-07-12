@@ -6,7 +6,7 @@ The project processes sales data from a CSV file, calculates the key financial m
 
 {Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](https://youtu.be/a1GPLerZBXo)
+[Software Demo Video](https://youtu.be/wwnHr7bM40Q)
 
 # Development Environment
 
