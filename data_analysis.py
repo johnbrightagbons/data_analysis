@@ -2,15 +2,26 @@
 # Project Title: Monthly Sales Data Analysis
 # Project Goal:
 # Analyze a small sales dataset to find out:
-# - Total and average revenue
+
+
+# What are the overall financial performance
+#  metrics for the sales data?
+# - Total Revenue
+# - Average monthly revenue
+# - Total Profit
+# - Average Monthly Profit
+# - Average Profit Margin 
+
+# Which month had the highest revenue and what was
+# the month-over-month profit growth pattern? 
 # - Best-performing month
+# - Month-over-month profit growth trends for all months
+# -Highest Month-over-Month Profit Growth
+
+# Which months exceeded average performance metrics?
 # - Visualize monthly revenue using a bar chart
 # - Analyze profit trends
-# - Calculate profit margin percentage
-# - Identify months with above-average revenue
-# - Export analysis results to a new CSV file
-# - Analyze month-over-month profit growth 
-# - Visualize profit trend with a line chart 
+#
 
 import pandas as pd
 import matplotlib.pyplot as plt
