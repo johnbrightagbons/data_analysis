@@ -1,16 +1,21 @@
 # Overview
 
-This python project is a sale analysis designed to help data anaysts to quickly evaluate monthly sale performance. As a software developer looking to improve on my data analysis skills, I wrote this project to demonstrate practical application of python's manipulation and visualization capabilities.
+This Python project is a comprehensive sales analysis tool designed to help business analysts quickly evaluate monthly sales performance. As a software developer looking to improve my data analysis skills, I created this project to demonstrate practical application of Python's data manipulation and visualization capabilities.
 
-The project processes sales data from a CSV file, calculates the key financial metrics like profit, revenue, profit margin and generates a visulization to highlight performances and or trends. It automatically shows high performing months and gives a complete break down of the monthly index. This is a complete end to end analysis tool because it includes auto data validation, cleaning and export functionality.
+The project processes sales transaction data from a CSV file and calculates key financial indicators including total revenue, profit, profit margins, and month-over-month growth trends. It generates clear visualizations to reveal patterns in sales performance and profitability. The analysis automatically identifies best-performing months and above-average revenue periods, providing actionable insights for business strategy.
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
+This is a complete end-to-end analysis tool because it includes:
+Auto dataset generation (creates sample data if no file exists)
+Data validation and cleaning
+Financial metric calculations
+Trend analysis and visualization
+Export functionality for reporting
 
 [Software Demo Video](https://youtu.be/wwnHr7bM40Q)
 
 # Development Environment
 
-The project was developed on the Visual Studio Code using Python programming language. The project used 4 core python library of pandas for data manipulation and analysis, matplitlib for data visualization, os for file manipulation and datatime for time operations. It follows python best practices of modular code structure, error handling, data vaalidation and cleaning and self explanatory comments.
+The project was developed on the Visual Studio Code using Python programming language. The project used 4 core python library of pandas for data manipulation and analysis, matplitlib for data visualization, os for file manipulation, and datatime for time operations. It follows python best practices of modular code structure, error handling, data validation and cleaning and self explanatory comments.
 
 # Useful Websites
 
